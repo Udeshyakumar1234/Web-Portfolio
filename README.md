@@ -21,21 +21,6 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## Deploy to Vercel
-
-1. Push this repository to GitHub
-2. Go to [vercel.com/new](https://vercel.com/new)
-3. Import your repository — Vercel auto-detects Next.js
-4. Click **Deploy**
-
-No extra configuration is required. Vercel will run `next build` automatically.
-
-### Deploy via CLI (optional)
-
-```bash
-npm i -g vercel
-vercel
-```
 
 ## Project Structure
 
