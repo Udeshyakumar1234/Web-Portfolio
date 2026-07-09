@@ -3,8 +3,20 @@ export const profile = {
   tagline:
     "Interested in software development and system design, and always learning as I build.",
   email: "udeshya1234@gmail.com",
-  linkedin: "https://linkedin.com/in/udeshya-kumar-3889a9251",
-  github: "https://github.com/Udeshyakumar1234",
+  linkedin: {
+    label: "LinkedIn",
+    href: "https://linkedin.com/in/udeshya-kumar-3889a9251",
+  },
+
+  github: {
+    label: "GitHub",
+    href: "https://github.com/Udeshyakumar1234",
+  },
+
+  portfolio: {
+    label: "Portfolio",
+    href: "https://web-portfolio-nine-sigma.vercel.app/",
+  },
   resume: "/Resume_Udeshya.pdf",
   resumeFileName: "Resume_Udeshya.pdf",
 };
@@ -103,7 +115,7 @@ export const education = {
   institution: "Manipal Institute of Technology, Manipal",
   degree: "B.Tech in Computer and Communication Engineering",
   period: "2022 to 2026",
-  cgpa: "7",
+  cgpa: "6.95",
   note: "Minor specialization in Full Stack Development and Big Data",
 };
 
