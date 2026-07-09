@@ -3,20 +3,8 @@ export const profile = {
   tagline:
     "Interested in software development and system design, and always learning as I build.",
   email: "udeshya1234@gmail.com",
-  linkedin: {
-    label: "LinkedIn",
-    href: "https://linkedin.com/in/udeshya-kumar-3889a9251",
-  },
-
-  github: {
-    label: "GitHub",
-    href: "https://github.com/Udeshyakumar1234",
-  },
-
-  portfolio: {
-    label: "Portfolio",
-    href: "https://web-portfolio-nine-sigma.vercel.app/",
-  },
+  linkedin: "https://linkedin.com/in/udeshya-kumar-3889a9251",
+  github: "https://github.com/Udeshyakumar1234",
   resume: "/Resume_Udeshya.pdf",
   resumeFileName: "Resume_Udeshya.pdf",
 };
