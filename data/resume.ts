@@ -59,6 +59,13 @@ export const projects = [
       "A mobile app that lets you scan a food barcode and see nutrition facts, ingredients, brand info, and more.",
     tech: ["Dart", "Flutter", "Firebase", "SQLite"],
   },
+  {
+    title: "Life-Expectancy-predictor",
+    href: "https://github.com/Udeshyakumar1234/Life-Expectancy-predictor",
+    description:
+      "A survival-analysis project that estimates a person's remaining life expectancy as a range with uncertainty, not a single guaranteed number — combining the official SSA age-mortality baseline with lifestyle hazard ratios learned from real health-survey data, and propagating Bayesian posterior uncertainty into a survival curve.",
+    tech: ["Python", "Pandas", "pymc", "matplotlib"],
+  },
 ];
 
 export const skills = {
